@@ -1,0 +1,15 @@
+C:\Users\otavi\Desktop\Senai\Client-Control\bin\Debug\net7.0\Client-Control.exe
+C:\Users\otavi\Desktop\Senai\Client-Control\bin\Debug\net7.0\Client-Control.deps.json
+C:\Users\otavi\Desktop\Senai\Client-Control\bin\Debug\net7.0\Client-Control.runtimeconfig.json
+C:\Users\otavi\Desktop\Senai\Client-Control\bin\Debug\net7.0\Client-Control.dll
+C:\Users\otavi\Desktop\Senai\Client-Control\bin\Debug\net7.0\Client-Control.pdb
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.csproj.AssemblyReference.cache
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.AssemblyInfoInputs.cache
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.AssemblyInfo.cs
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.dll
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\refint\Client-Control.dll
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.pdb
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\Client-Control.genruntimeconfig.cache
+C:\Users\otavi\Desktop\Senai\Client-Control\obj\Debug\net7.0\ref\Client-Control.dll
